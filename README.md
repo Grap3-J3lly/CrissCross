@@ -1,2 +1,2 @@
 # CrissCross
-Very early concept for mobile scroller game
+Very early concept for lane-based mobile scroller game
